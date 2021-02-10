@@ -1,0 +1,15 @@
+﻿  SoTietKiem.cpp
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(14,2): warning C4091: 'typedef ': ignored on left of 'Date' when no variable is declared
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(23,2): warning C4091: 'typedef ': ignored on left of 'SoTietKiem' when no variable is declared
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(28,2): warning C4091: 'typedef ': ignored on left of 'DanhSach' when no variable is declared
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(33,2): warning C4091: 'typedef ': ignored on left of 'LIST' when no variable is declared
+  main.cpp
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(14,2): warning C4091: 'typedef ': ignored on left of 'Date' when no variable is declared
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(23,2): warning C4091: 'typedef ': ignored on left of 'SoTietKiem' when no variable is declared
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(28,2): warning C4091: 'typedef ': ignored on left of 'DanhSach' when no variable is declared
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.h(33,2): warning C4091: 'typedef ': ignored on left of 'LIST' when no variable is declared
+  Generating Code...
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.cpp(40): warning C4715: 'Thang2': not all control paths return a value
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.cpp(14): warning C4715: 'thang30Ngay': not all control paths return a value
+D:\code\ktlt\cuoi ky\Project1\SoTietKiem.cpp(23): warning C4715: 'thang31Ngay': not all control paths return a value
+  Project1.vcxproj -> D:\code\ktlt\cuoi ky\Project1\Debug\Project1.exe
