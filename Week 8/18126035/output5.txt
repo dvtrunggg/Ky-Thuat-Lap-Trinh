@@ -1,0 +1,2 @@
+(1, 2)ban kinh: 3 (3, 2)ban kinh: 8 (4, 2)ban kinh: 1 
+(2, 3)ban kinh: 5 (1, 2)ban kinh: 4 (6, 5)ban kinh: 1 
